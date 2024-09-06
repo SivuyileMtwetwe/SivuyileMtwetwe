@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [School Management System](Schoolmanagement-three.vercel.app)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [Sivuyilemtwetwe.vercel.app](Sivuyilemtwetwe.vercel.app)
 
