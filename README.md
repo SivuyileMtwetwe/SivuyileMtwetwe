@@ -1,4 +1,4 @@
-<h1 align="center">Hi ðŸ‘‹, I'm Sivuyile Mtwetwe</h1>
+<h1 align="center">Hi 👋, I'm Sivuyile Mtwetwe</h1>
 <h3 align="center">A passionate full-stack developer from South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivuyilemtwetwe&label=Profile%20views&color=0e75b6&style=flat" alt="sivuyilemtwetwe" /> </p>
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/mtwetwesivuyile" target="blank"><img src="https://img.shields.io/twitter/follow/mtwetwesivuyile?logo=twitter&style=for-the-badge" alt="mtwetwesivuyile" /></a> </p>
 
-- ðŸ”­ Iâ€™m currently working on [School Management System](Schoolmanagement-three.vercel.app)
+- 🔭 I’m currently working on [School Management System](Schoolmanagement-three.vercel.app)
 
-- ðŸŒ± Iâ€™m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
-- ðŸ‘¨â€ðŸ’» All of my projects are available at [Sivuyilemtwetwe.vercel.app](Sivuyilemtwetwe.vercel.app)
+- 👨‍💻 All of my projects are available at [Sivuyilemtwetwe.vercel.app](Sivuyilemtwetwe.vercel.app)
 
-- ðŸ’¬ Ask me about **Angular**
+- 💬 Ask me about **Angular**
 
-- ðŸ“« How to reach me **Sivuyilemtwetwe@gmail.com**
+- 📫 How to reach me **Sivuyilemtwetwe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivuyilemtwetwe&show_icons=true&locale=en" alt="sivuyilemtwetwe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivuyilemtwetwe&" alt="sivuyilemtwetwe" /></p>
+
