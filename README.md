@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/mtwetwesivuyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtwetwesivuyile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sivuyilemtwetwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivuyilemtwetwe" height="30" width="40" /></a>
-<a href="https://fb.com/mtwetwesivuyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mtwetwesivuyile" height="30" width="40" /></a>
+<a href="https://fb.com/mtwetwesivuyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sivuyilemt" height="30" width="40" /></a>
 <a href="https://instagram.com/lynne_cpt021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lynne_cpt021" height="30" width="40" /></a>
 <a href="https://discord.gg/Sivuyilemtwetwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sivuyilemtwetwe" height="30" width="40" /></a>
 </p>
