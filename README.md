@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mtwetwesivuyile" target="blank"><img src="https://img.shields.io/twitter/follow/mtwetwesivuyile?logo=twitter&style=for-the-badge" alt="mtwetwesivuyile" /></a> </p>
 
-- 🔭 I’m currently working on [School Management System](Schoolmanagement-three.vercel.app)
+- 🔭 I’m currently working on [School Management System](https://Schoolmanagement-three.vercel.app)
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [Sivuyilemtwetwe.vercel.app](Sivuyilemtwetwe.vercel.app)
+- 👨‍💻 All of my projects are available at [Sivuyilemtwetwe.vercel.app](https://sivuyilemtwetwe.vercel.app/)
 
 - 💬 Ask me about **Angular**
 
