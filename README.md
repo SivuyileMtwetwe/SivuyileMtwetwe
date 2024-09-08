@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [Sivuyilemtwetwe.vercel.app](https://sivuyilemtwetwe.vercel.app/)
+- 👨‍💻 All of my projects are available at [sivuyilemtwetwe.vercel.app](https://sivuyilemtwetwe.vercel.app/)
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **Sivuyilemtwetwe@gmail.com**
+- 📫 How to reach me **sivuyilemtwetwe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
