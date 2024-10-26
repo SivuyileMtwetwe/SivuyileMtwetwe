@@ -36,3 +36,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivuyilemtwetwe&" alt="sivuyilemtwetwe" /></p>
 
 
+![Snake animation](https://raw.githubusercontent.com/SivuyileMtwetwe/SivuyileMtwetwe/output/github-contribution-grid-snake-dark.svg)
