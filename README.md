@@ -36,4 +36,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivuyilemtwetwe&" alt="sivuyilemtwetwe" /></p>
 
 
-![GitHub Snake Animation](https://github.com/SivuyileMtwetwe/SivuyileMtwetwe/raw/Output/github-contribution-grid-snake.svg)
+
