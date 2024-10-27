@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ SivuyileMtwetwe }}
+          github_user_name:  SivuyileMtwetwe 
           # Size of the generated snake SVG and animation
           outputs: |
             dist/github-snake.svg

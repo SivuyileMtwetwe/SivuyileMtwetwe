@@ -37,3 +37,4 @@
 
 
 
+![Snake animation](https://github.com/SivuyileMtwetwe/SivuyileMtwetwe/blob/output/github-snake.svg)
