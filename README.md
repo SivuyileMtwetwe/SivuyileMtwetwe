@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [School Management System](https://student-management-062f57f4b57c78d257c7bac47823fd3ed2281994.vercel.app)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [sivuyilemtwetwe.vercel.app](https://sivuyilemtwetwe.vercel.app/)
 
