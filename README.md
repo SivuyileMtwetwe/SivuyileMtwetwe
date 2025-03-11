@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue.Js**
 
-- 👨‍💻 All of my projects are available at [https://sivuyilemtwetwe.vercel.app](https://sivuyilemtwetwe.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sivuyilemtwetwe.vercel.app](https://sivuyilemtwetwe.co.za)
 
 - 💬 Ask me about **Angular, Python and JavaScript**
 
