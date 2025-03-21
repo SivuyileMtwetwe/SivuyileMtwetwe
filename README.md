@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sivuyile Mtwetwe</h1>
-<h3 align="center">A passionate frontend developer from South Africa</h3>
+<h1 align="center">Hello Friend👋, I'm Sivuyile Mtwetwe</h1>
+<h3 align="center">A passionate Full Stack developer from South Africa</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivuyilemtwetwe" alt="sivuyilemtwetwe" /></a> </p>
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/mtwetwesivuyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtwetwesivuyile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sivuyilemtwetwe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivuyilemtwetwe" height="30" width="40" /></a>
-<a href="https://instagram.com/lynne_cpt021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lynne_cpt021" height="30" width="40" /></a>
+<a href="https://instagram.com/mtwetwesivuyile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lynne_cpt021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
